@@ -1,0 +1,11 @@
+Instructions:
+
+You are a spaceship in outer space. The spaceship is controlled using the arrow keys. The up and down arrow keys move the space ship forward and backwards, respectively. The left and right arrow keys rotate the ship to the left and right, respectively.
+Use the space bar to create lasers that fly in the direction that you're facing. These lasers deal damage to the obstacles in each level. 
+Your goal is to make it through the 3 levels of the game by clearing all the obstacles in each level. Being hit by an asteroid or lasers from aliens will make you lose a life, so watch out!
+
+Level 1 - In this level you begin with 5 lives. Four asteroids spawn and your goal is to get rid of all the asteroids by hitting them with your lasers. Watch out though, these asteroids will split into two smaller sized and faster asteroids once hit. These medium sized asteroids will split one more time creating 2 small asteroids once hit. These small asteroids are to small to split anymore and can be destroyed completely with a laser. If you run into an asteroid, you will lose a life so be careful. 
+
+Level 2 - In level 2 you begin with the same amount of lives that you finished level 1 with. Four aliens spawn and your goal is to get destroy all the aliens by hitting them with your lasers. You must hit the aliens multiple times until their health bars hit 0 upon which they will be destroyed. These aliens are able to create their own lasers that can hit you, so be careful because their lasers will make you lose a life. Running into an alien will also make you lose a life. 
+
+Level 3 - This is the boss level. You must destroy the boss alien by hitting it multiple time with your lasers in order to lower its health to 0 and destroy it. This boss alien does not create lasers but instead spawns regular aliens. To complete this level and the game, you must destroy the boss alien and any regular aliens that it spawned.
